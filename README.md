@@ -25,4 +25,3 @@ This project aims to modify Slackware to suit specific requirements, focusing on
 ### 5. Set Up Quality of Life Enhancements
 - Configure `cowsay` for terminal reminders.
 - Customize terminal fonts and emojis.
--
